@@ -50,8 +50,7 @@
 
 <br/>
   
-![Saket's github stats](https://github-readme-stats.vercel.app/api?username=illuvium37&show_icons=true&theme=radical)
-
+<!-- ![Saket's github stats](https://github-readme-stats.vercel.app/api?username=illuvium37&show_icons=true&theme=radical) -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
