@@ -1,20 +1,42 @@
-<ul style="list-style: none;">
+<!-- <ul style="list-style: none;">
 <li>👋 Hi,  I’m <strong>Saket Verma</strong></li>
 <li>🌱 I’m currently learning <strong>Docker & Kubernetes</strong></li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>Spring Framework</strong></li>  
-</ul>
+</ul> -->
 
----
 
-<div align="center">
-<h3>Contact Me 📫</h3>
-  <p align="center">
-  <a href="https://in.linkedin.com/in/saket-verma37"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+<h3 align="center">
+  Welcome to Saket Verma's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+    <a href="https://in.linkedin.com/in/saket-verma37"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="mailto:saketverma.official@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/></a>
-</p>  
-</div>
+</p>
+
+<br/>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://github.com/illuvium37?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   
+  <a href="https://github.com/illuvium37?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+  <a href="https://github.com/illuvium37/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
+<br/>
 
 
 <h2 align="center"> 🛠️ Languages and Tools 🛠️</h2>
@@ -33,6 +55,7 @@
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"></a>
 </p> 
 
+<br/>
   
 ![Saket's github stats](https://github-readme-stats.vercel.app/api?username=illuvium37&show_icons=true&theme=radical)
   
