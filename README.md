@@ -1,17 +1,9 @@
-- 👋 Hi, I’m Saket Verma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Kubernetes
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>Spring Framework</strong></li>
-- 📫 How to reach me ...
-
-
-
 <ul style="list-style: none;">
-<li>:👋: Hi, I’m Saket Verma</li>
-<li>:👀: I’m interested in ...</li>
-<li>:🌱: I’m currently learning <strong>Kubernetes</strong></li>
+<li>👋 Hi, I’m Saket Verma</li>
+<li>👀 I’m interested in ...</li>
+<li>🌱 I’m currently learning <strong>Kubernetes</strong></li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>Spring Framework</strong></li>  
-<li>:📫: How to reach me ...</li>
+<li>📫 How to reach me ...</li>
 </ul>
 
 <!---
