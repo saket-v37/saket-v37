@@ -27,7 +27,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/illuvium37?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
   <a href="https://github.com/illuvium37/Simple-View-Counter">
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/illuvium37-profile-views"/></a>
   
 </p>
 
