@@ -62,6 +62,13 @@
 </p>
   
 ---
+
+<p align="center"> 
+  💜 Thanks For Visiting 💜
+  <img src="https://profile-counter.glitch.me/illuvium37/count.svg" />
+</p>
+
+
 #### Thanks For Visiting  :heart:
 ![VisitorCount](https://profile-counter.glitch.me/illuvium37/count.svg)
   
