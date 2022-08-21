@@ -1,16 +1,12 @@
-
 <h3 align="center">
   Welcome to Saket Verma's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<br/>
-
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Developer;Constant+Learner;1.5%2B+years+of+coding+experience" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Developer;Constant+Learner;1.5%2B+years+of+coding+experience" /></a>
 </p>
 
-<br/>
 <!-- Social icons section -->
 <p align="center">
     <a href="https://in.linkedin.com/in/saket-verma37"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
