@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saket Verma
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on Spring Framework
+<li>:octocat: I’m looking to collaborate projects that make use of <strong>Spring Boot & JavaScript</strong></li>
 - 📫 How to reach me ...
 
 <!---
