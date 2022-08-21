@@ -8,7 +8,6 @@
 </p>
 
 
-<!-- Social icons section -->
 <p align="center">
     <a href="https://in.linkedin.com/in/saket-verma37"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -17,19 +16,12 @@
 
 <br/>
 
-<!-- Social badges section -->
+
 <p align="center">
   <a href="https://github.com/illuvium37?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/illuvium37?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    
   <a href="https://github.com/illuvium37?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/illuvium37?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
-<!--     <a href="https://github.com/illuvium37/Simple-View-Counter">
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/illuvium37-profile-views"/></a>
-   -->
-<!--   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=illuvium37.illuvium37) 
-  [GitHub Profile Views Counter]: https://github.com/illuvium37/github-profile-views-counter   -->
 </p>
 
 <br/>
@@ -67,11 +59,6 @@
   Visitor Count <br>
   <img src="https://profile-counter.glitch.me/illuvium37/count.svg" />
 </p>
-
-
-<!-- #### Thanks For Visiting  :heart:
-![VisitorCount](https://profile-counter.glitch.me/illuvium37/count.svg)
-   -->
   
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
