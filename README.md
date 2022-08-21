@@ -26,6 +26,8 @@
   <a href="https://github.com/illuvium37?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/illuvium37?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=illuvium37.illuvium37) 
+  
   [GitHub Profile Views Counter]: https://github.com/illuvium37/github-profile-views-counter
   
 <!--   <a href="https://github.com/illuvium37/Simple-View-Counter">
