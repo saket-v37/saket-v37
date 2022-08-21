@@ -64,14 +64,14 @@
 ---
 
 <p align="center"> 
-  💜 Thanks For Visiting 💜
+  💜 Thanks For Visiting 💜<br>
   <img src="https://profile-counter.glitch.me/illuvium37/count.svg" />
 </p>
 
 
-#### Thanks For Visiting  :heart:
+<!-- #### Thanks For Visiting  :heart:
 ![VisitorCount](https://profile-counter.glitch.me/illuvium37/count.svg)
-  
+   -->
   
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
