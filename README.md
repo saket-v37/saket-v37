@@ -26,8 +26,10 @@
   <a href="https://github.com/illuvium37?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/illuvium37?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
-  <a href="https://github.com/illuvium37/Simple-View-Counter">
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/illuvium37-profile-views"/></a>
+  [GitHub Profile Views Counter]: https://github.com/illuvium37/github-profile-views-counter
+  
+<!--   <a href="https://github.com/illuvium37/Simple-View-Counter">
+  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/illuvium37-profile-views"/></a> -->
   
 </p>
 
@@ -63,7 +65,7 @@
 </a>
 </p>
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=illuvium37.illuvium37)  
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=illuvium37.illuvium37)   -->
   
   
 <!-- MARKDOWN LINKS & IMAGES -->
