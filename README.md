@@ -19,24 +19,20 @@
 
 <!-- Social badges section -->
 <p align="center">
-  
   <a href="https://github.com/illuvium37?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/illuvium37?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     
   <a href="https://github.com/illuvium37?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/illuvium37?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=illuvium37.illuvium37) 
-  
-  [GitHub Profile Views Counter]: https://github.com/illuvium37/github-profile-views-counter
-  
-<!--   <a href="https://github.com/illuvium37/Simple-View-Counter">
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/illuvium37-profile-views"/></a> -->
-  
+<!--     <a href="https://github.com/illuvium37/Simple-View-Counter">
+  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/illuvium37-profile-views"/></a>
+   -->
+<!--   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=illuvium37.illuvium37) 
+  [GitHub Profile Views Counter]: https://github.com/illuvium37/github-profile-views-counter   -->
 </p>
 
 <br/>
-
 
 <h2 align="center"> 🛠️ Languages and Tools 🛠️</h2>
 <p>
@@ -55,8 +51,6 @@
 </p> 
 
 <br/>
-  
-<!-- ![Saket's github stats](https://github-readme-stats.vercel.app/api?username=illuvium37&show_icons=true&theme=radical) -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -67,7 +61,6 @@
 </a>
 </p>
   
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=illuvium37.illuvium37)   -->
   
   
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -77,6 +70,5 @@
 [contributors-url]: https://github.com/illuvium37/Best-README-Template/graphs/contributors -->
 <!-- [forks-shield]: https://img.shields.io/github/forks/illuvium37/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/illuvium37/Best-README-Template/network/members
-
 [stars-shield]: https://img.shields.io/github/stars/illuvium37/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/illuvium37/Best-README-Template/stargazers   -->
