@@ -20,6 +20,7 @@
 <p align="center">
   <a href="https://github.com/illuvium37?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/illuvium37?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/illuvium37?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/illuvium37?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
@@ -40,7 +41,7 @@
   <a href="#"><img alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"></a>
   <a href="#"><img alt="Intellij Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25"></a>
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"></a>
-</p> 
+</p>
 
 <br/>
 
