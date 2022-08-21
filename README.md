@@ -7,6 +7,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Software+Developer;Constant+Learner+;1.5%2B++years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
 
+[![Stargazers][stars-shield]][stars-url]
+
 <!-- Social icons section -->
 <p align="center">
     <a href="https://in.linkedin.com/in/saket-verma37"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
