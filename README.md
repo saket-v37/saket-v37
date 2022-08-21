@@ -64,7 +64,7 @@
 ---
 
 <p align="center"> 
-  💜 Thanks For Visiting 💜<br>
+  <h3>Thanks For Visiting</h3>
   <img src="https://profile-counter.glitch.me/illuvium37/count.svg" />
 </p>
 
