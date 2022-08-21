@@ -8,9 +8,6 @@
 </p>
 
 
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-
 <!-- Social icons section -->
 <p align="center">
     <a href="https://in.linkedin.com/in/saket-verma37"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
@@ -62,8 +59,8 @@
 <!-- 
 [contributors-shield]: https://img.shields.io/github/contributors/illuvium37/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/illuvium37/Best-README-Template/graphs/contributors -->
-[forks-shield]: https://img.shields.io/github/forks/illuvium37/Best-README-Template.svg?style=for-the-badge
+<!-- [forks-shield]: https://img.shields.io/github/forks/illuvium37/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/illuvium37/Best-README-Template/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/illuvium37/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/illuvium37/Best-README-Template/stargazers  
+[stars-url]: https://github.com/illuvium37/Best-README-Template/stargazers   -->
