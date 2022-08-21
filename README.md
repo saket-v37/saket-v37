@@ -1,20 +1,11 @@
 <h3 align="center">
   Welcome to Saket Verma's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Software+Developer;1.5+years+of+coding+experience" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Software+Developer;Constant+Learner+;1.5%2B++years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
-
-
-<!-- <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Developer;Constant+Learner;1.5%2B+years+of+coding+experience" /></a>
-</h3>   -->
-
-<!-- <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Software+Developer;Constant+Learner;1.5%2B+years+of+coding+experience" /></a>
-</p> -->
 
 <!-- Social icons section -->
 <p align="center">
