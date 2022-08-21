@@ -7,7 +7,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Software+Developer;Constant+Learner+;1.5%2B++years+of+coding+experience" alt="Typing SVG" /></a>
 </p>
 
+
 [![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
 
 <!-- Social icons section -->
 <p align="center">
@@ -54,8 +56,14 @@
 ![Saket's github stats](https://github-readme-stats.vercel.app/api?username=illuvium37&show_icons=true&theme=radical)
   
   
+  
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- 
+[contributors-shield]: https://img.shields.io/github/contributors/illuvium37/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/illuvium37/Best-README-Template/graphs/contributors -->
+[forks-shield]: https://img.shields.io/github/forks/illuvium37/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/illuvium37/Best-README-Template/network/members
 
-<!---
-illuvium37/illuvium37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[stars-shield]: https://img.shields.io/github/stars/illuvium37/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/illuvium37/Best-README-Template/stargazers  
